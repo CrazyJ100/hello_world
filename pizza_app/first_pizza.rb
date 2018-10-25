@@ -90,7 +90,7 @@ end
 puts "You wanted #{count} pizza?"
 tip = ($cost_size + delivery_price) * 0.15
 print "It's gonna cost #{$cost_size} before delivery."
-puts "tips is #{tip}."
+puts "Suggested tip is #{tip}."
 # total_cost = 
 
 
